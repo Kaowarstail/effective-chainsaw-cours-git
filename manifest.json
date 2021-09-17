@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Devinci effective-chainsaw",
+    "name": "Effective Devinci's chainsaw",
     "version": "1.0",
  
     "description": "Découpe ton portail pour le rendre meilleur",
@@ -8,8 +8,8 @@
     "content_scripts": [
       {
         "matches": ["*://*.leonard-de-vinci.net/*"],
-        "js": ["override-devinci.js"],
-        "css": ["override-devinci.css", "edt.css"]
+        "js": ["chainsaw-devinci.js"],
+        "css": ["chainsaw-devinci.css"]
       }
     ]
  
