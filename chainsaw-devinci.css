@@ -4,3 +4,6 @@
 .nav-indicators .dropdown:not(.nav-messages) a img {
     width: 20px;
 } /* Apply a width to the flag logo */
+.icon-bar {
+    display: none !important;
+}
