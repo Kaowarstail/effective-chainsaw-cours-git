@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(76, 219, 112) !important;
+}
+
 .alert.alert-info {
     display:none !important;
 }
