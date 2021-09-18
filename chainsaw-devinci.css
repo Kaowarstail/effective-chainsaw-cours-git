@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(230, 224, 171) !important;
+    background-color: rgb(199, 199, 199) !important;
 }
 
 .alert.alert-info {
@@ -8,3 +8,11 @@ body {
 .nav-indicators .dropdown:not(.nav-messages) a img {
     width: 20px;
 } /* Apply a width to the flag logo */
+
+div .navbar-inner {
+    background-color: rgb(0, 183, 255) !important;
+}
+
+.btn.btn-navbar {
+    background-color: rgb(0, 183, 255) !important;
+}
