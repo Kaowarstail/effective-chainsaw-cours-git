@@ -30,10 +30,6 @@ header {
     color: #F2F2F2 !important;
 }/* disable text in menu */
 
-.accordion-group .accordion-heading .accordion-toggle span:hover {
-    color: #696D76 !important;
-}/* display text when hovered */
-
 .social-sidebar .menu .accordion-group .accordion-heading .accordion-toggle.opened {
     background-color: rgb(0, 183, 255) !important;
 }
@@ -43,3 +39,6 @@ header {
 }
 
 
+.social-box.social-blue.social-bordered {
+    border-color: rgb(0, 183, 255) !important;
+}
