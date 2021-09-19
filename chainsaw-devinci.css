@@ -9,6 +9,8 @@ body {
     width: 20px;
 } /* Apply a width to the flag logo */
 
+
+/* Change navbars color */
 div .navbar-inner {
     background-color: rgb(0, 183, 255) !important;
 }
@@ -17,14 +19,11 @@ div .navbar-inner {
     background-color: rgb(0, 183, 255) !important;
 }
 
-<<<<<<< HEAD
+
 header {
     background-color: rgb(0, 183, 255) !important;
 }
-<<<<<<< HEAD
-=======
-=======
->>>>>>> main
+
 
 /* Menu */
 .accordion-group .accordion-heading .accordion-toggle span {
@@ -43,7 +42,4 @@ header {
     background-color: rgb(0, 183, 255) !important;
 }
 
-<<<<<<< HEAD
-=======
->>>>>>> menu
->>>>>>> main
+
