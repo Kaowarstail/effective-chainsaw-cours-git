@@ -38,7 +38,13 @@ header {
     background-color: rgb(0, 183, 255) !important;
 }
 
-
 .social-box.social-blue.social-bordered {
     border-color: rgb(0, 183, 255) !important;
+}
+
+/* Buttons */
+
+.btn {
+    padding: 7px 22px !important;
+    margin: 3px !important;
 }
